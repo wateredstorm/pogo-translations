@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WatWowMap/pogo-translations.git"
+    "url": "git+https://github.com/wateredstorm/pogo-translations.git"
   },
   "scripts": {
     "start": "node .",
